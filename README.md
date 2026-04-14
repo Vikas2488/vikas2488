@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vikas2448855" target="blank"><img src="https://img.shields.io/twitter/follow/vikas2448855?logo=twitter&style=for-the-badge" alt="vikas2448855" /></a> </p>
 
-- 🔭 I’m currently working on **Aguken-AI**
+- 🔭 I’m currently working on **YaMarkets**
 
 - 🌱 I’m currently learning **ArgoCD,Karpenter**
 
