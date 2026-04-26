@@ -4,18 +4,26 @@
 🚀 DevOps Engineer | ☸️ Kubernetes | ⚡ CI/CD | ☁️ Cloud
 </h3>
 
+<!-- Typing Animation -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;Kubernetes+Enthusiast;CI/CD+Automation+Expert;Cloud+%26+Infrastructure+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;Kubernetes+Expert;CI/CD+Automation;Cloud+Infrastructure+Builder" />
+</p>
+
+<!-- Animated Divider -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-7f0b0c3f-2f3e-4b5a-bc9d-3b6a63d9f2f6.gif">
 </p>
 
 ---
 
 ### 🧠 About Me
 
-* 🔭 Working on **YaMarkets (Production Infra)**
-* ⚙️ Building **CI/CD pipelines with GitHub Actions + ArgoCD**
-* ☸️ Managing **Kubernetes clusters (on-prem + cloud)**
-* 🌱 Learning **Karpenter & Advanced Scaling**
+* 🔭 Working on **YaMarkets**
+* ⚙️ Building **CI/CD pipelines (GitHub Actions + ArgoCD)**
+* ☸️ Managing **Kubernetes clusters**
+* 🌱 Learning **Karpenter**
 * 💬 Ask me about **DevOps, Infra, Automation**
 * 📫 **[vikas0661@gmail.com](mailto:vikas0661@gmail.com)**
 
@@ -37,7 +45,7 @@
 
 ---
 
-### 🛠️ DevOps Tech Stack
+### 🛠️ Tech Stack (Animated Feel)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,python,git,github,mysql,postgres,redis,nginx,nodejs,react" />
@@ -47,15 +55,15 @@
 
 ### ⚡ DevOps Highlights
 
-* 🚀 Automated deployments using **GitHub Actions + ArgoCD (GitOps)**
-* ☸️ Kubernetes deployments using **Helm charts**
-* 🐳 Containerized apps with **Docker (multi-service architecture)**
-* 🔐 Secure infra on **on-premise Linux servers**
-* 📈 Monitoring with **Grafana + logs pipelines**
+* 🚀 GitOps deployment using **ArgoCD**
+* ☸️ Kubernetes with **Helm**
+* 🐳 Docker multi-service architecture
+* 🔐 Secure infra (on-prem servers)
+* 📈 Monitoring with Grafana
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats (Live + Animated)
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=vikas2488&show_icons=true&theme=tokyonight" />
@@ -68,21 +76,23 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🐍 Contribution Snake Animation
 
-* ⚡ **CI/CD Pipeline** → GitHub Actions + ArgoCD (GitOps)
-* ☸️ **Kubernetes Deployment** → Helm + Stateful Apps
-* 🐳 **Dockerized Full Stack App** → Production Ready
-* 🔁 **Zero Downtime Deployment** on on-prem servers
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vikas2488/Vikas2488/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
-### 🧩 Fun Fact
+### 🚀 Featured Projects
 
-💡 I love building systems that deploy themselves 🚀
+* ⚡ CI/CD Pipeline → GitHub Actions + ArgoCD
+* ☸️ Kubernetes Deployment → Helm
+* 🐳 Dockerized Full Stack App
+* 🔁 Zero Downtime Deployment
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star!
+  ✨ Building systems that deploy themselves 🚀
 </p>
